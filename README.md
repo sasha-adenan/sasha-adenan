@@ -1,6 +1,4 @@
-<div style="text-align: center;">  
-    <img src="img\avator.jpg" alt="个人头像" style="width: 200px; border-radius: 50%;"> 
-</div>
+<img src="img\avator.jpg" alt="个人头像" style="width: 200px; border-radius: 50%;"> 
 
 ## This is ***sasha-adnan***👻👻👻
 
