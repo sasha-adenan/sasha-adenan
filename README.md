@@ -1,4 +1,4 @@
-<img src="img\镜头之外-06.jpg" alt="个人背景" style="width: 200px; border-radius: 50%;"> 
+<img src="img\镜头之外-60.jpg" alt="个人背景" style="width: 200px; border-radius: 50%;"> 
 
 ## This is ***sasha-adnan***👻👻👻
 
